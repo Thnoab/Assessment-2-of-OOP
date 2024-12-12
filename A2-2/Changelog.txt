@@ -1,0 +1,15 @@
+Changelog
+
+Dec 12nd 2024
+##Added
+- Added Changelog
+- Optimized the code of the Assignment part
+
+Dec 12nd 2024
+##Added
+- Initially completed the entire program
+- The construction of all preliminary classes has been completed
+
+Nov 28th 2024
+##Added
+- Completed the initial construction of the Person class.
