@@ -1,0 +1,23 @@
+Changelog
+
+Dec 16th 2024
+##Added
+- Added VisitorComparator class for sorting visitors
+- Added modules for recording and reading history and handling exceptions in the Ride class
+##Improved
+- Assignment can output history
+- Assignment will divide the content required for each part according to the content of the assignment
+
+Dec 12nd 2024
+##Added
+- Added Changelog
+- Optimized the code of the Assignment part
+
+Dec 12nd 2024
+##Added
+- Initially completed the entire program
+- The construction of all preliminary classes has been completed
+
+Nov 28th 2024
+##Added
+- Completed the initial construction of the Person class.
